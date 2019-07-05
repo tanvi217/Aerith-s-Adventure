@@ -1,2 +1,2 @@
 # Aerith-s-Adventure
-Unity Game 
+A 2D endless runner game, using C# and the Unity Game Engine.
